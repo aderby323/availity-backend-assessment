@@ -1,6 +1,6 @@
 # Availity Take-Home Assessment
 ## Description
-Repository that holds program files relevant towards the take-home coding assessments
+Repository that holds the written responses and program files relevant towards the take-home assessment
 
 ## Notes
 For the mocked .csv data, the duplicated enrollees to test are as follows:
